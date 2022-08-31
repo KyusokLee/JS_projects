@@ -1,0 +1,16 @@
+{
+  "name": "logintest_firestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.3",
+    "firebase-admin": "^11.0.1"
+  },
+  "type": "module"
+}
